@@ -89,7 +89,7 @@ export const site = {
       summary: 'A data-driven management simulator developed for construction students to practice site management, resource allocation, and budget tracking.',
       solution: 'Engineered a clean architecture using Unity to parse large Excel/CSV datasets for dynamic task balancing. Developed robust UI systems for real-time progress tracking and worker efficiency algorithms.',
       impact: 'Delivered a highly scalable educational tool that successfully simulates real-world workforce management and financial constraints.',
-      image: 'astro-01.webp', // Voit vaihtaa tähän simulaattorin screenshotin nimen myöhemmin public-kansioon
+      image: 'raksa.gif', // Voit vaihtaa tähän simulaattorin screenshotin nimen myöhemmin public-kansioon
       imageAlt: 'Construction Simulator gameplay screenshot',
       techCategories: [
         {
