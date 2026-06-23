@@ -160,7 +160,7 @@ export const site = {
       ],
     },
   ],
-  /*projectArchivePage: {
+  projectArchivePage: {
     title: 'All projects',
     description: 'Project archive: dates, roles, and technologies across representative engagements.',
     intro: 'A concise archive of engagements and representative work.',
@@ -171,7 +171,7 @@ export const site = {
     { date: '2024', project: 'Auth hardening', role: 'Backend', techStack: 'OAuth2, JWT, rate limits' },
     { date: '2023', project: 'Analytics pipeline', role: 'Data', techStack: 'SQL, dbt, warehouse' },
     { date: '2023', project: 'Mobile web refresh', role: 'Frontend', techStack: 'HTML, CSS, a11y audits' },
-  ],*/
+  ],
   contact: {
     email: '97asmo@gmail.com',
     github: 'https://github.com/centyh',
@@ -179,5 +179,5 @@ export const site = {
   },
 } as const;
 
-//export type ProjectArchiveRow = (typeof site.projectArchive)[number];
+export type ProjectArchiveRow = (typeof site.projectArchive)[number];
 export type FeaturedProject = (typeof site.featuredProjects)[number];
