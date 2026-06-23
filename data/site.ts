@@ -12,32 +12,32 @@ export const site = {
   url: 'https://example.com',
   meta: {
     title: 'Asmo Majalahti | Game Developer',
-    description:
+    description: 'Game Developer graduating from Metropolia UAS. Check out my projects and technical expertise.',
       'Test',
   },
   hero: {
     name: 'Asmo Majalahti',
     role: 'Game Developer',
-    tagline: 'From product intent to production — pragmatic systems, accessible UI, and maintainable code.',
-    contact: 'Open to collaborations and senior IC roles on product-minded teams.',
-    avatarSrc: '/favicon.svg',
+    tagline: 'Game Developer finishing studies at Metropolia UAS. Passionate about gameplay programming, clean systems architecture and smooth player experiences',
+    contact: 'Open to new opportunities, junior/mid-level roles and game dev collaborations.',
+    avatarSrc: '/kuva.png',
     avatarAlt: 'Asmo Majalahti',
   },
   about: {
     paragraphs: [
-      'A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.',
-      'I care about clear boundaries between modules, automated checks in CI, and documentation that helps the next contributor ship safely.',
+      'I am a Game Developer currently finishing my final thesis to graduate from Metropolia University of Applied Sciences. Through intensive project-based studies and personal passion, I have built a solid technical foundation in bringing games from initial concepts into playable realities.',
+      'I highly value clean code, strong system boundaries, and gameplay feel. I enjoy tackling complex logic puzzles, developing responsive UI/UX systems, optimizing performance, and working closely in multidisciplinary teams to create memorable gaming experiences.',
       {
-        heading: 'Example focus areas',
+        heading: 'Core Focus Area',
         bullets: [
-          'Designing APIs and client boundaries with typed contracts',
-          'Performance budgets, caching, and pragmatic observability',
-          'Shipping incrementally with feature flags and rollback-friendly deploys',
+          'Gameplay programming and polishing the "game feel"',
+          'PSystems architecture—writing modular, scalable, and maintainable code',
+          'UI/UX implementation and developing custom tooling to improve team workflows',
         ],
       },
       {
-        heading: 'Sample stack',
-        techItems: ['TypeScript', 'Astro', 'Tailwind CSS', 'Node', 'Vitest'],
+        heading: 'Core Tech Stack',
+        techItems: ['C#', 'C++', 'Python', 'JavScript', 'HTML/CSS', 'Git/GitHub', 'Unity 2D & 3D', 'Visual Studio', 'Node.js', 'Figma', 'Doxygen', 'Jira & Trello'],
       },
     ],
   },
@@ -135,9 +135,9 @@ export const site = {
     { date: '2023', project: 'Mobile web refresh', role: 'Frontend', techStack: 'HTML, CSS, a11y audits' },
   ],
   contact: {
-    email: 'hello@example.com',
-    github: 'https://github.com/',
-    linkedin: 'https://www.linkedin.com/',
+    email: '97asmo@gmail.com',
+    github: 'https://github.com/centyh',
+    linkedin: 'https://www.linkedin.com/in/asmo-majalahti-33146921a/',
   },
 } as const;
 
