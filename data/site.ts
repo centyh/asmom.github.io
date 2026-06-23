@@ -11,17 +11,17 @@
 export const site = {
   url: 'https://example.com',
   meta: {
-    title: 'Alex Morgan | Full-stack engineer',
+    title: 'Asmo Majalahti | Game Developer',
     description:
-      'Portfolio example: shipping reliable web products with clear architecture, tests, and delivery practices.',
+      'Test',
   },
   hero: {
-    name: 'Alex Morgan',
-    role: 'Full-stack engineer',
+    name: 'Asmo Majalahti',
+    role: 'Game Developer',
     tagline: 'From product intent to production — pragmatic systems, accessible UI, and maintainable code.',
     contact: 'Open to collaborations and senior IC roles on product-minded teams.',
     avatarSrc: '/favicon.svg',
-    avatarAlt: 'Alex Morgan',
+    avatarAlt: 'Asmo Majalahti',
   },
   about: {
     paragraphs: [
