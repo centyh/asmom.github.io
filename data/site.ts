@@ -30,7 +30,7 @@ export const site = {
         heading: 'Core Focus Area',
         bullets: [
           'Gameplay programming and polishing the "game feel"',
-          'PSystems architecture—writing modular, scalable, and maintainable code',
+          'Systems architecture—writing modular, scalable, and maintainable code',
           'UI/UX implementation and developing custom tooling to improve team workflows',
         ],
       },
