@@ -108,7 +108,7 @@ export const site = {
       summary: 'A console-based chess engine developed in C++ featuring an AI opponent capable of calculating optimal moves.',
       solution: 'Implemented the core chess logic, board representations, and integrated the Alpha-Beta pruning algorithm to optimize the AI search tree efficiency.',
       impact: 'Demonstrated deep understanding of low-level memory management, complex data structures, and algorithmic optimization without external game engines.',
-      image: 'astro-01.webp', // Voit vaihtaa tähän konsolinäkymän screenshotin nimen
+      image: 'chess.gif', // Voit vaihtaa tähän konsolinäkymän screenshotin nimen
       imageAlt: 'C++ Chess engine console preview',
       techCategories: [
         {
