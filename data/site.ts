@@ -13,7 +13,6 @@ export const site = {
   meta: {
     title: 'Asmo Majalahti | Game Developer',
     description: 'Game Developer graduating from Metropolia UAS. Check out my projects and technical expertise.',
-      'Test',
   },
   hero: {
     name: 'Asmo Majalahti',
@@ -37,7 +36,7 @@ export const site = {
       },
       {
         heading: 'Core Tech Stack',
-        techItems: ['C#', 'C++', 'Python', 'JavScript', 'HTML/CSS', 'Git/GitHub', 'Unity 2D & 3D', 'Visual Studio', 'Node.js', 'Figma', 'Doxygen', 'Jira & Trello'],
+        techItems: ['C#', 'C++', 'Python', 'JavaScript', 'HTML/CSS', 'Git/GitHub', 'Unity 2D & 3D', 'Visual Studio', 'Node.js', 'Figma', 'Doxygen', 'Jira & Trello'],
       },
     ],
   },
