@@ -146,7 +146,7 @@ export const site = {
       summary: 'A 2D game developed for YLE (Finnish Broadcasting Company) to support their national environmental campaign.',
       solution: 'Collaborated in a 3-person team to program core gameplay loops, user interface flows, and optimized asset delivery for a smooth, multi-platform user experience.',
       impact: 'Shipped a production-ready game for a high-profile national campaign, demonstrating strong client-collaboration, agile teamwork, and accessible design.',
-      image: 'astro-02.jpeg', // Voit vaihtaa tähän pelin screenshotin nimen public-kansioon
+      image: 'trash.gif', // Voit vaihtaa tähän pelin screenshotin nimen public-kansioon
       imageAlt: 'Miljoona roskapussia game showcase',
       techCategories: [
         {
@@ -160,7 +160,7 @@ export const site = {
       ],
     },
   ],
-  projectArchivePage: {
+  /*projectArchivePage: {
     title: 'All projects',
     description: 'Project archive: dates, roles, and technologies across representative engagements.',
     intro: 'A concise archive of engagements and representative work.',
@@ -171,7 +171,7 @@ export const site = {
     { date: '2024', project: 'Auth hardening', role: 'Backend', techStack: 'OAuth2, JWT, rate limits' },
     { date: '2023', project: 'Analytics pipeline', role: 'Data', techStack: 'SQL, dbt, warehouse' },
     { date: '2023', project: 'Mobile web refresh', role: 'Frontend', techStack: 'HTML, CSS, a11y audits' },
-  ],
+  ],*/
   contact: {
     email: '97asmo@gmail.com',
     github: 'https://github.com/centyh',
