@@ -141,7 +141,7 @@ export const site = {
       ],
     },
     {
-      title: 'One million trashbags',
+      title: 'One Million Trashbags',
       period: '2024',
       summary: 'A 2D game developed for YLE (Finnish Broadcasting Company) to support their national environmental campaign.',
       solution: 'Collaborated in a 3-person team to program core gameplay loops, user interface flows, and optimized asset delivery for a smooth, multi-platform user experience.',
