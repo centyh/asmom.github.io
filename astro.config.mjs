@@ -3,8 +3,8 @@ import tailwindcss from '@tailwindcss/vite';
 import icon from 'astro-icon';
 
 export default defineConfig({
-  site: 'https://asmom.github.io',
-  base: '/',
+  site: 'https://centyh.github.io',
+  base: '/asmom.github.io',
   output: 'static',
   vite: {
     plugins: [tailwindcss()],
