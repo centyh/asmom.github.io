@@ -127,7 +127,7 @@ export const site = {
       summary: 'A 3D multiplayer game developed in a collaborative 6-person team, featuring real-time network synchronization and physics-based gameplay.',
       solution: 'Co-programmed network authority logic, player movement replication, and dynamic object synchronization. Managed strict code boundaries to seamlessly integrate art assets with backend systems.',
       impact: 'Successfully delivered a fully functional 3D multiplayer prototype, showcasing deep understanding of network architectures and cross-disciplinary teamwork.',
-      image: 'astro-02.jpeg', // Voit vaihtaa tähän myöhemmin pelin screenshotin
+      image: 'rat.gif', // Voit vaihtaa tähän myöhemmin pelin screenshotin
       imageAlt: 'Ah Rats! multiplayer gameplay',
       techCategories: [
         {
