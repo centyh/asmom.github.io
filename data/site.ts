@@ -20,7 +20,7 @@ export const site = {
     tagline: 'Game Developer finishing studies at Metropolia UAS. Passionate about gameplay programming, clean systems architecture and smooth player experiences',
     contact: 'Open to new opportunities, junior/mid-level roles and game dev collaborations.',
     avatarSrc: '/kuva.png',
-    avatarAlt: 'Asmo Majalahti',
+    avatarAlt: '',
   },
   about: {
     paragraphs: [
