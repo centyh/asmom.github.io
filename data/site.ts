@@ -84,40 +84,59 @@ export const site = {
   ],
   featuredProjects: [
     {
-      title: 'Lumen Studio Website',
-      period: '2025',
-      summary: 'Built a polished portfolio experience with accessible UI, motion-led interactions, and reusable components.',
-      solution: 'Designed a modular component system with Astro and Tailwind CSS, ensuring consistent brand experience across all breakpoints.',
-      impact: 'Achieved sub-1s page load metrics and 95+ Lighthouse scores through optimized asset delivery and lazy loading strategies.',
-      image: 'astro-01.webp',
-      imageAlt: 'Lumen Studio website showcase',
+      title: 'Construction Simulator',
+      period: '2026',
+      summary: 'A data-driven management simulator developed for construction students to practice site management, resource allocation, and budget tracking.',
+      solution: 'Engineered a clean architecture using Unity to parse large Excel/CSV datasets for dynamic task balancing. Developed robust UI systems for real-time progress tracking and worker efficiency algorithms.',
+      impact: 'Delivered a highly scalable educational tool that successfully simulates real-world workforce management and financial constraints.',
+      image: 'astro-01.webp', // Voit vaihtaa tähän simulaattorin screenshotin nimen myöhemmin public-kansioon
+      imageAlt: 'Construction Simulator gameplay screenshot',
       techCategories: [
         {
-          category: 'Frontend',
-          items: ['TypeScript', 'Astro', 'Tailwind CSS', 'Responsive Design'],
+          category: 'Core Systems',
+          items: ['C#', 'Unity', 'CSV Data Parsing', 'Algorithms'],
         },
         {
-          category: 'Performance',
-          items: ['Asset Optimization', 'Lazy Loading', 'Image CDN'],
+          category: 'Architecture',
+          items: ['UI Architecture', 'Data-Driven Design', 'Doxygen Documentation', 'Client Project'],
         },
       ],
     },
     {
-      title: 'Nova Launch Marketing Platform',
-      period: '2024',
-      summary: 'Delivered a modular marketing site and interactive product showcase for a launch-ready SaaS brand.',
-      solution: 'Implemented a content-driven architecture with reusable card components and dynamic project pages, enabling non-technical content updates.',
-      impact: 'Reduced content update time by 80% through intuitive component-based structure; enabled marketing team independence.',
-      image: 'astro-02.jpeg',
-      imageAlt: 'Nova Launch platform interface',
+      title: 'C++ Chess AI Bot',
+      period: '2025',
+      summary: 'A console-based chess engine developed in C++ featuring an AI opponent capable of calculating optimal moves.',
+      solution: 'Implemented the core chess logic, board representations, and integrated the Alpha-Beta pruning algorithm to optimize the AI search tree efficiency.',
+      impact: 'Demonstrated deep understanding of low-level memory management, complex data structures, and algorithmic optimization without external game engines.',
+      image: 'astro-01.webp', // Voit vaihtaa tähän konsolinäkymän screenshotin nimen
+      imageAlt: 'C++ Chess engine console preview',
       techCategories: [
         {
-          category: 'Frontend',
-          items: ['Astro', 'TypeScript', 'Tailwind CSS'],
+          category: 'Backend & Logic',
+          items: ['C++', 'Alpha-Beta Pruning', 'AI Algorithms'],
         },
         {
-          category: 'Developer Experience',
-          items: ['Vite', 'ESLint', 'Automated Testing'],
+          category: 'Software Engineering',
+          items: ['Data Structures', 'Performance Optimization', 'Console UI'],
+        },
+      ],
+    },
+    {
+      title: 'Miljoona roskapussia - 2D Game',
+      period: '2024',
+      summary: 'A 2D game developed for YLE (Finnish Broadcasting Company) to support their national environmental campaign.',
+      solution: 'Collaborated in a 3-person team to program core gameplay loops, user interface flows, and optimized asset delivery for a smooth, multi-platform user experience.',
+      impact: 'Shipped a production-ready game for a high-profile national campaign, demonstrating strong client-collaboration, agile teamwork, and accessible design.',
+      image: 'astro-02.jpeg', // Voit vaihtaa tähän pelin screenshotin nimen public-kansioon
+      imageAlt: 'Miljoona roskapussia game showcase',
+      techCategories: [
+        {
+          category: 'Development',
+          items: ['C#', 'Unity 2D', 'Cross-Platform Optimization'],
+        },
+        {
+          category: 'Teamwork',
+          items: ['Client Project', 'Agile Development', 'UI/UX Implementation'],
         },
       ],
     },
