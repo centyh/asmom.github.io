@@ -122,6 +122,25 @@ export const site = {
       ],
     },
     {
+      title: 'Ah Rats!',
+      period: '2025',
+      summary: 'A 3D multiplayer game developed in a collaborative 6-person team, featuring real-time network synchronization and physics-based gameplay.',
+      solution: 'Co-programmed network authority logic, player movement replication, and dynamic object synchronization. Managed strict code boundaries to seamlessly integrate art assets with backend systems.',
+      impact: 'Successfully delivered a fully functional 3D multiplayer prototype, showcasing deep understanding of network architectures and cross-disciplinary teamwork.',
+      image: 'astro-02.jpeg', // Voit vaihtaa tähän myöhemmin pelin screenshotin
+      imageAlt: 'Ah Rats! multiplayer gameplay',
+      techCategories: [
+        {
+          category: 'Networking & Logic',
+          items: ['C#', 'Unity 3D', 'Multiplayer Networking', 'State Synchronization'],
+        },
+        {
+          category: 'Software Engineering',
+          items: ['3D Physics', 'Cross-Disciplinary Teamwork', 'Git Workflow'],
+        },
+      ],
+    },
+    {
       title: 'Miljoona roskapussia - 2D Game',
       period: '2024',
       summary: 'A 2D game developed for YLE (Finnish Broadcasting Company) to support their national environmental campaign.',
