@@ -179,5 +179,5 @@ export const site = {
   },
 } as const;
 
-export type ProjectArchiveRow = (typeof site.projectArchive)[number];
+//export type ProjectArchiveRow = (typeof site.projectArchive)[number];
 export type FeaturedProject = (typeof site.featuredProjects)[number];
