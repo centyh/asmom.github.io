@@ -9,7 +9,7 @@
  */
 
 export const site = {
-  url: 'https://example.com',
+  url: 'https://centyh.github.io/asmom.github.io/',
   meta: {
     title: 'Asmo Majalahti | Game Developer',
     description: 'Game Developer graduating from Metropolia UAS. Check out my projects and technical expertise.',
@@ -19,7 +19,7 @@ export const site = {
     role: 'Game Developer',
     tagline: 'Game Developer finishing studies at Metropolia UAS. Passionate about gameplay programming, clean systems architecture and smooth player experiences',
     contact: 'Open to new opportunities, junior/mid-level roles and game dev collaborations.',
-    avatarSrc: '/kuva.png',
+    avatarSrc: 'kuva.png',
     avatarAlt: '',
   },
   about: {
